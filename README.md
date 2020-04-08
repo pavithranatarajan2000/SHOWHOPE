@@ -1,2 +1,2 @@
-# SHOWHOPE
-SHOWHOPE is the webapplication
+#WEBSITE
+simple website
